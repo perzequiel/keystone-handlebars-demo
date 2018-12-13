@@ -12,6 +12,8 @@ keystone.init({
 
 	'name': 'Keystone Demo',
 	'brand': 'Demo',
+	'host': '127.0.0.1',
+	'port': 3001,
 
 	'favicon': 'public/favicon.ico',
 	'less': 'public',
